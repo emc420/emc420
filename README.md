@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Biswajit 
 - 👀 I’m interested in Learning new technologies/languages, Contributing to open source, creating new products/Games. 
 - 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on the things I mentioned above
+- 💞️ I’m looking to collaborate on innovative projects.<Bring it on!!!! :)>
 - 📫 I can be reached at biswajit.kar6@gmail.com  
 
 <!---
